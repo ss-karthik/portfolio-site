@@ -44,6 +44,23 @@ h1 {
     font-size: 30px;
 }
 
+.card-bts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-bts button{
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+
+.card-bts button a{
+    color: black;
+    font-size: 30px;
+}
+
 .linktwt {
     text-decoration: none;
     color: blue;
