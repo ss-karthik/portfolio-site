@@ -21,8 +21,9 @@ nav {
 
 img {
     padding: 50px;
-    max-width: 400px;
-    height: auto;
+    width: 400px;
+    height: 400px;
+
 }
 
 h1 {
